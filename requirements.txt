@@ -4,3 +4,4 @@ pandas
 numpy
 groq
 requests
+python-dotenv
